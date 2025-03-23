@@ -9,7 +9,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: navy; /* Navy background for the header */
+    background-color: #A9A9A9 ;
     color: white; /* White text for the header */
     text-align: center;
     padding: 20px;
@@ -18,19 +18,19 @@ header {
 /* Heading 1 style */
 h1 {
     font-size: 36px; /* Large font size for the main heading */
-    color: black; /* Black text color for main heading */
+    color: navy; 
 }
 
 /* Heading 2 style */
 h2 {
     font-size: 24px; /* Medium font size for the subheading */
-    color: grey; /* Grey color for the subheading */
+    color: navy; 
 }
 
 /* Heading 3 style */
 h3 {
     font-size: 18px; /* Slightly smaller font size for the "About NAMs" section */
-    color: black; /* Black color for "About NAMs" */
+    color: black;  
     margin-top: 20px;
 }
 
