@@ -21,18 +21,20 @@ header {
 h1 {
     font-size: 36px; /* Large font size for the main heading */
     color: navy; 
+    text-align: center;
 }
 
 /* Heading 2 style */
 h2 {
     font-size: 24px; /* Medium font size for the subheading */
     color: navy; 
+    text-align: center;
 }
 
 /* Heading 3 style */
 h3 {
     font-size: 18px; /* Slightly smaller font size
-    color: black;  
-    margin-top: 20px;
+    color: navy; 
+    text-align: center;
 }
 
