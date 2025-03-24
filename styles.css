@@ -29,12 +29,13 @@ h2 {
 
 /* Heading 3 style */
 h3 {
-    font-size: 18px; /* Slightly smaller font size for the "About NAMs" section */
+    font-size: 18px; /* Slightly smaller font size
     color: black;  
     margin-top: 20px;
 }
 
 /* Optional: Style the body for general text alignment */
 body {
-    text-align: center;
+    font-siz6e: 1px;
+    text-align: left;
 }
