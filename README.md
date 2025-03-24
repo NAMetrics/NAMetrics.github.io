@@ -7,27 +7,13 @@
 
 **New Approach Methodologies (NAMs)** are modern, human-relevant, non-animal methods for preclinical drug development. They include a variety of tools such as:
 
-- **In vitro systems**:  
-  - Organ-on-chip  
-  - 3D cell cultures  
-  - Organoids  
-
-- **In silico models**:  
-  - Physiologically Based Pharmacokinetic (PBPK)  
-  - Quantitative Systems Pharmacology (QSP)  
-  - Digital twins  
-
-- **Computational approaches**:  
-  - AI/ML  
-  - Quantitative Structure-Activity Relationship (QSAR)  
-  - Mechanistic modeling  
-
-- **Hybrid/combinatorial methods**:  
-  - Integration of in vitro and in silico for improved prediction  
+- **In vitro systems**:Organ-on-chip, 3D cell cultures, Organoids  
+- **In silico models**: Pharmacokinetic/pharmacodynamic (PK/PD), Physiologically Based Pharmacokinetic (PBPK), Quantitative Systems Pharmacology (QSP), AI/ML, Quantitative Structure-Activity Relationship (QSAR)    
+- **Hybrid/combinatorial methods**:  Integration of in vitro and in silico for improved prediction  
 
 ---
 
-## Why are NAMs Needed?
+## Why are NAMs Important?
 
 - **High clinical failure rates**:  
   Over 90% of drugs fail in clinical trials due to poor translation from animal data.
