@@ -17,15 +17,11 @@
 
 - **High clinical failure rates**:  
   Over 90% of drugs fail in clinical trials due to poor translation from animal data.
-
 - **Scientific limitations**:  
   Animal models often lack disease relevance and human-specific biology.
-
 - **Ethical concerns**:  
   Growing public and regulatory resistance to animal testing.
-
 - **Financial impact**:  
   Failed translation drives up R&D costs (average ~$985 million per approved drug).
-
 - **Regulatory support**:  
   Agencies like FDA, EMA, and ICH now endorse and encourage NAMs (e.g., FDA Modernization Act 3.0).
