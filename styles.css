@@ -37,18 +37,20 @@ h1 {
 /* Heading 2 style */
 h2 {
     font-size: 24px; /* Medium font size for the subheading */
-    color: navy; 
+    color: #2d3b55;  
     text-align: center;
 }
 
 /* Heading 3 style */
 h3 {
     font-size: 18px; /* Slightly smaller font size
-    color: navy; 
+    color: #2d3b55; 
     text-align: center;
 }
 
 .button {
-  background-color: navy; 
-  font-size: 24px;
+  background-color: #2d3b55;
+  color: #ffffff;
+  width: 100px;
+  height: 60px;
 }
