@@ -9,11 +9,16 @@ body {
     text-align: left;
 }
 
+.button {
+  background-color: #2d3b55;
+  color: #ffffff;
+  width: 100px;
+  height: 60px;
+}
+
 p {
     font-family: "Times New Roman", Times, serif;
     font-size: 16px;
-    margin: 0;
-    padding: 0;
     background-color: #f4f4f4; 
     color: black; 
     text-align: left;
@@ -22,7 +27,7 @@ p {
 /* Header styles */
 header {
     background-color: #A9A9A9 ;
-    color: white; /* White text for the header */
+    color: white;  
     text-align: center;
     padding: 20px;
 }
@@ -30,7 +35,7 @@ header {
 /* Heading 1 style */
 h1 {
     font-size: 36px; /* Large font size for the main heading */
-    color: navy; 
+    color: #2d3b55;  
     text-align: center;
 }
 
@@ -46,11 +51,4 @@ h3 {
     font-size: 18px; /* Slightly smaller font size
     color: #2d3b55; 
     text-align: center;
-}
-
-.button {
-  background-color: #2d3b55;
-  color: #ffffff;
-  width: 100px;
-  height: 60px;
 }
