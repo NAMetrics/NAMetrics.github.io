@@ -10,12 +10,12 @@ body {
 }
 
 button {
-  background-color: #A9A9A9;
-  color: #ffffff;
+  background-color: #6699CC;
   width: 200px;
   height: 200px;
   font-size: 36px;  
   float: left;
+  margin: 20px;
 }
 
 p {
