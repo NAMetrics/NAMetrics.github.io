@@ -1,7 +1,7 @@
 /* Set the font for the whole page */
 body {
     font-family: "Times New Roman", Times, serif;
-    font-size: 16px;
+    font-size: 20px;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4; 
@@ -18,7 +18,7 @@ body {
 
 p {
     font-family: "Times New Roman", Times, serif;
-    font-size: 16px;
+    font-size: 20px;
     background-color: #f4f4f4; 
     color: black; 
     text-align: left;
@@ -48,7 +48,7 @@ h2 {
 
 /* Heading 3 style */
 h3 {
-    font-size: 18px; /* Slightly smaller font size
+    font-size: 20px; /* Slightly smaller font size
     color: #2d3b55; 
     text-align: center;
 }
