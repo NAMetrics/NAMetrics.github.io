@@ -20,15 +20,12 @@ body {
 }
 
 .about-us-btn {
-    position: absolute;
     transition: background-color 0.3s ease;
 }
 .resources-btn {
-    position: absolute;
     transition: background-color 0.3s ease;
 }
 .forum-btn {
-    position: absolute;
     transition: background-color 0.3s ease;
 }
 
