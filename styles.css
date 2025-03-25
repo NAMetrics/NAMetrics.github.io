@@ -10,10 +10,12 @@ body {
 }
 
 button {
-  background-color: #2d3b55;
+  background-color: #A9A9A9;
   color: #ffffff;
-  width: 100px;
-  height: 60px;
+  width: 200px;
+  height: 200px;
+  font-size: 36px;  
+  float: left;
 }
 
 p {
@@ -34,7 +36,7 @@ header {
 
 /* Heading 1 style */
 h1 {
-    font-size: 36px; /* Large font size for the main heading */
+    font-size: 36px;  
     color: #2d3b55;  
     text-align: center;
 }
