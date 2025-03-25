@@ -24,14 +24,17 @@ body {
 
 .about-us-btn {
     position: absolute;
+    align: left ;
     transition: background-color 0.3s ease;
 }
 .resources-btn {
     position: absolute;
+    align: center ;
     transition: background-color 0.3s ease;
 }
 .forum-btn {
     position: absolute;
+    align: right ;
     transition: background-color 0.3s ease;
 }
 
