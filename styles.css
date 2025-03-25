@@ -13,7 +13,9 @@ body {
     display: flex;
     justify-content: center;  
     align-items: center;
-    margin-top: 20px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .about-us-btn {
@@ -25,7 +27,7 @@ body {
     border-radius: 8px; /* Rounded corners */
     cursor: pointer;
     display: inline-block; /* Ensures proper spacing */
-    margin: 20px auto; /* Adjusts margin */
+    margin: 10px auto; /* Adjusts margin */
     text-align: center;
     transition: background-color 0.3s ease;
 }
