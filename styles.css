@@ -29,6 +29,7 @@ body {
     display: inline-block; /* Ensures proper spacing */
     margin: 10px auto; /* Adjusts margin */
     text-align: center;
+    align: left;
     transition: background-color 0.3s ease;
 }
 
