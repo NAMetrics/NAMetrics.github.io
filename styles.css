@@ -21,13 +21,13 @@ body {
 .about-us-btn {
     background-color: #6699CC; /* Change to your preferred color */
     color: white; /* Text color */
-    padding: 24px 36px; /* Adjust size */
+    padding: 10px 20px; /* Add padding to the button for better appearance */
+    margin-left: 30px; /* Adds space between the button and the left edge */
     font-size: 20px; /* Adjust text size */
     border: none;
     border-radius: 8px; /* Rounded corners */
     cursor: pointer;
     display: inline-block; /* Ensures proper spacing */
-    margin: 10px auto; /* Adjusts margin */
     text-align: center;
     align: left;
     transition: background-color 0.3s ease;
