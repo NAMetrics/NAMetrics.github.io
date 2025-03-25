@@ -53,14 +53,14 @@ header {
 
 /* Heading 1 style */
 h1 {
-    font-size: 36px;  
+    font-size: 24px;  
     color: #2d3b55;  
     text-align: center;
 }
 
 /* Heading 2 style */
 h2 {
-    font-size: 24px; /* Medium font size for the subheading */
+    font-size: 22px; 
     color: #2d3b55;  
     text-align: center;
 }
