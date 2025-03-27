@@ -7,8 +7,8 @@ body {
 }
 
 .button-container {
-   /* display: flex;*/
-  /* justify-content: space-between;  */
+   display: flex;
+   justify-content: space-between; 
     margin-right: 20px; /* Add space between buttons */
     color: #2d3b55; 
     padding: 10px; /* Add padding to the button for better appearance */
