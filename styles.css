@@ -24,20 +24,20 @@ margin-right: 20px;
 }
 
 .button-container {
-   /* display: flex;
+   display: flex;
    justify-content: space-between; 
-   margin-right: 20px; */
-    padding: 10px; /* Add padding to the button for better appearance */
-    font-size: 20px; /* Adjust text size */
+   margin-right: 20px;
+    padding: 10px;  
+    font-size: 20px;  
     border: none;
-    border-radius: 8px; /* Rounded corners */
+    border-radius: 8px;  
     cursor: pointer;
-    display: inline-block; /* Ensures proper spacing */
+    display: inline-block;  
 }
 
 p {
     font-family: "Times New Roman", Times, serif;
-    font-size: 22px;
+    font-size: 20px;
     color: black; 
     text-align: left;
 }
