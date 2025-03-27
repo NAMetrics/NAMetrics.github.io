@@ -7,10 +7,9 @@ body {
 }
 
 .button-container {
-    display: flex;
-    justify-content: space-between;  
+   /* display: flex;
+  /* justify-content: space-between;  
     margin-right: 20px; /* Add space between buttons */
-    background-color: white; /* Change to your preferred color */
     color: #2d3b55; 
     padding: 10px; /* Add padding to the button for better appearance */
     font-size: 20px; /* Adjust text size */
@@ -18,16 +17,6 @@ body {
     border-radius: 8px; /* Rounded corners */
     cursor: pointer;
     display: inline-block; /* Ensures proper spacing */
-}
-
-.about-us-btn {
-    transition: background-color 0.3s ease;
-}
-.resources-btn {
-    transition: background-color 0.3s ease;
-}
-.forum-btn {
-    transition: background-color 0.3s ease;
 }
 
 p {
