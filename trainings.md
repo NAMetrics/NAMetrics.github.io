@@ -2,6 +2,7 @@
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Physiologically-based Phrmacokinetic Modeling](#pbpk)
+   2.1 Whole-body PBPK using PK-Sim and Mobi(#pbpk1)
 
 ## Introduction 
 <a name="introduction"></a>
@@ -9,4 +10,8 @@ coming soon
 
 ## Physiologically-based Phrmacokinetic Modeling
 <a name="pbpk"></a>
-www.youtube.com/@krinamehta7979
+
+### Whole-body PBPK using PK-Sim and Mobi 
+<a name="pbpk"></a>
+1. www.youtube.com/@krinamehta7979
+2. https://www.open-systems-pharmacology.org/
