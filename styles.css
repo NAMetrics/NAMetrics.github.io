@@ -9,6 +9,7 @@ body {
 .button-container {
     display: flex;
     justify-content: space-between;  
+    margin-right: 20px; /* Add space between buttons */
     background-color: white; /* Change to your preferred color */
     color: #2d3b55; 
     padding: 10px; /* Add padding to the button for better appearance */
