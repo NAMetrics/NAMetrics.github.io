@@ -18,6 +18,18 @@ body {
     cursor: pointer;
     display: inline-block; /* Ensures proper spacing */
 }
+.about-us-btn{
+margin-left: 20px
+margin-right: 20px   
+}
+.resources-btn{
+margin-left: 20px
+margin-right: 20px  
+}
+.forum-btn{
+margin-left: 20px
+margin-right: 20px  
+}
 
 p {
     font-family: "Times New Roman", Times, serif;
