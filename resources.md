@@ -2,7 +2,6 @@
 ## Table of contents
 1. [Introduction](#introduction)
 2. [Mechanistic Models for Pharmacokinetics](#mechanisticpk)
- <!---   1. [Sub paragraph](#subparagraph1)-->
 3. [Mechanistic Models for Safety](#mechanisticsafety)
 4. [Mechanistic Models for Pharmacodynamics and Efficay](#mechanisticpdefficacy)
 
