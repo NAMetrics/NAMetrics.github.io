@@ -1,7 +1,7 @@
-# Links to Training Materials Useful for Implementation of In Silico NAMs
+# Useful Resources for Implementation of In Silico NAMs
 ## Table of contents
 1. [Introduction](#introduction)
-2. [Ordinary Differential Equation-based Models](#ode)
+2. [Compartmental PK and PK/PD Models](#ode)
 3. [Physiologically-based Phrmacokinetic Modeling](#pbpk)
    1. [Whole-body PBPK using PK-Sim and Mobi](#pbpk1)
    2. [Minimal PBPK Models](#mpbpk)
@@ -10,7 +10,7 @@
 <a name="introduction"></a>
 coming soon
 
-## Ordinary Differential Equation-based Models
+## Compartmental PK and PK/PD Models
 <a name="ode"></a>
 1. https://mrgsolve.org/learn
 
